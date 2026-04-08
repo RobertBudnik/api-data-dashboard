@@ -2,7 +2,7 @@
 
 Prosty, interaktywny dashboard analityczny stworzony w Pythonie z wykorzystaniem biblioteki Streamlit. Aplikacja pobiera dane z publicznego API, łączy je i wyświetla na wykresach.
 
-🌍 **https://github.com/robokopbombica-cyber/api-data-dashboard.git**
+🌍 **https://xtklb6psvqtodmbemiyj57.streamlit.app**
 
 ![img.png](img.png)) 
 
@@ -30,11 +30,5 @@ Cały kod samodzielnie złożyłem, przetestowałem i wdrożyłem.
 * Pandas - transformacja i łączenie danych
 * Requests - pobieranie danych (HTTP GET)
 * Plotly Express - interaktywne wykresy
-
-## 💻 Uruchomienie lokalne
-
-Sklonuj repozytorium lub pobierz plik z kodem źródłowym:
-```bash
-git clone https://github.com/robokopbombica-cyber/api-data-dashboard.git
 
 

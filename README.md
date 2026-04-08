@@ -19,10 +19,9 @@ Prosty, interaktywny dashboard analityczny stworzony w Pythonie z wykorzystaniem
 
 ## -Wykorzystanie AI-
 Zgodnie z poleceniem w zadaniu, do pomocy przy tym projekcie wykorzystałem model językowy. ChatGPT pomógł mi w:
-* Szybkim znalezieniu odpowiedniej funkcji w bibliotece pandas do łączenia dwóch tabel po wspólnym ID (`pd.merge`).
-* Wygenerowaniu poprawnej składni dla wykresów w bibliotece Plotly Express.
+* Szybkim znalezieniu odpowiedniej funkcji w bibliotece pandas do łączenia dwóch tabel po wspólnym ID (`pd.merge`). 
 * Zrozumieniu różnicy między uruchamianiem zwykłego skryptu Pythona a serwera Streamlit.
-Cały kod samodzielnie złożyłem, przetestowałem i wdrożyłem.
+* Wyjaśnieniu relacji 'jeden do wielu' podczas łączenia tabel – dlaczego imiona użytkowników powtarzają się dla każdego ich zadania.
 
 ## -Wykorzystane technologie-
 * Python 3.14

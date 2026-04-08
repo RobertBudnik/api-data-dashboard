@@ -18,7 +18,7 @@ Prosty, interaktywny dashboard analityczny stworzony w Pythonie z wykorzystaniem
 * **Podgląd danych:** Możliwość rozwinięcia tabeli z surowymi danymi na dole strony.
 
 ## -Wykorzystanie AI-
-Zgodnie z poleceniem w zadaniu, do pomocy przy tym projekcie wykorzystałem model językowy. ChatGPT pomógł mi w:
+Zgodnie z poleceniem w zadaniu, do pomocy przy tym projekcie wykorzystałem model językowy. Pomógł mi w:
 * Szybkim znalezieniu odpowiedniej funkcji w bibliotece pandas do łączenia dwóch tabel po wspólnym ID (`pd.merge`). 
 * Zrozumieniu różnicy między uruchamianiem zwykłego skryptu Pythona a serwera Streamlit.
 * Wyjaśnieniu relacji 'jeden do wielu' podczas łączenia tabel – dlaczego imiona użytkowników powtarzają się dla każdego ich zadania.

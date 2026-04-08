@@ -4,7 +4,7 @@ Prosty, interaktywny dashboard analityczny stworzony w Pythonie z wykorzystaniem
 
 🌍 **https://xtklb6psvqtodmbemiyj57.streamlit.app**
 
-![img.png](img.png)) 
+![img.png](img.png)
 
 ## -Funkcjonalności-
 * **Pobieranie danych:** Integracja z darmowym API JSONPlaceholder w celu pobrania listy użytkowników (`/users`) oraz ich zadań (`/todos`).
